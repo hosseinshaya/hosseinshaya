@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Hossein
-- 👀 I’m interested in developing applications
-- 💻 Created apps with Kotlin and Java but now I just wanna use Flutter
+- 🏠 21 y.o. from Kerman
+- 🧑🏻‍💻 I've been a mobile developer since 2016
+- 🐦 Now I'm using Flutter at mobit.ir
+- ☕ I used Java and Kotlin before
 - 📫 Reach me at t.me/hossein_shaya
 
 <!---
