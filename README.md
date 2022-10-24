@@ -5,7 +5,7 @@ I've been a mobile developer since 2016 🧑🏻‍💻 I used Java and Kotlin b
 Now I'm using Flutter to develop mobile and desktop applications 🐦</br>
 Also I have experiences in UI/UX designing before 🎨</br>
 I love to learn new technologies and tools 💙 Currently I'm learning NestJS ❤️‍🔥</br>
-📫 Reach me at: hosseinshaya@gmail.com
+📫 Reach me at: ho3einsg@gmail.com
 </br></br>
 
 ## 🌐 Socials
