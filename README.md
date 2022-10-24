@@ -10,4 +10,5 @@ I love to learn new technologies and tools 💙
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinshaya)
 
+---
 [![](https://visitcount.itsvg.in/api?id=hosseinshaya&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
