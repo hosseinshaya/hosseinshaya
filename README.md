@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Hossein
-- 🏠 22 y.o. from Kerman
-- 🧑🏻‍💻 I've been a mobile developer since 2016
-- 🐦 Now I'm using Flutter at mobit.ir
-- ☕ I used Java and Kotlin before
-- 📫 Reach me at t.me/hossein_shaya
+# 💫 About Me :
+I'm Hossein 👋🏻 22 y.o. from Kerman 🏠
+My full name is MohammadHossein Shabani 👤
+I've been a mobile developer since 2016 🧑🏻‍💻
+I used Java and Kotlin ☕
+Now I'm using Flutter to develop mobile and desktop applications 🐦
+Also I have experiences in UI/UX designing before 🎨
+I love to learn new technologies and tools 💙
 
-<!---
-hosseinshaya/hosseinshaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinshaya)
