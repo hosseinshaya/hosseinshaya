@@ -4,8 +4,8 @@ A self educated and fast learner programmer 👨🏻‍💻</br>
 I've been a mobile developer since 2016 🧑🏻‍💻 I used Java and Kotlin before ☕</br>
 Now I'm using Flutter to develop mobile and desktop applications 🐦</br>
 Also I have experiences in UI/UX designing before 🎨</br>
-I love to learn new technologies and tools 💙 Currently I'm learning NestJS ❤️‍🔥
-Reach me at: hosseinshaya@gmail.com
+I love to learn new technologies and tools 💙 Currently I'm learning NestJS ❤️‍🔥</br>
+🤙🏻 Reach me at: hosseinshaya@gmail.com
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinshaya)
