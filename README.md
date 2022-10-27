@@ -4,7 +4,7 @@ A self educated and fast learner programmer 👨🏻‍💻</br>
 I've been a mobile developer since 2016 🧑🏻‍💻 I used Java and Kotlin before ☕</br>
 Now I'm using Flutter to develop mobile and desktop applications 🐦</br>
 Also I have experiences in UI/UX designing before 🎨</br>
-I love to learn new technologies and tools 💙 Currently I'm learning NestJS ❤️‍🔥</br>
+I love to learn new technologies and tools 💙</br>
 📫 Reach me at: ho3einsg@gmail.com
 </br></br>
 
