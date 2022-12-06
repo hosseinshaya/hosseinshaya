@@ -30,7 +30,7 @@ I love to learn new technologies and tools 💙
 ## My Skills 
 
 
-<div style="display: flex; flex-wrap: wrap; margin: 0 auto; width: 100%">  
+<div style="display: flex; flex-wrap: wrap; margin: 0 auto; width: 100%; grid-gap: 8px;">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
