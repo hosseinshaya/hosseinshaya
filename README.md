@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Hossein 👋🏻 A Flutter developer 🧑🏻‍💻 I've been a mobile developer since 2016 🚀</div>  
+### <div align="left">I'm Hossein 👋🏻 A Flutter developer 🧑🏻‍💻 I've been a mobile developer since 2016 🚀</div>  
   
 
 22 y.o. from Kerman 🏠 My full name is MohammadHossein Shabani 👤  
@@ -27,32 +27,22 @@ I love to learn new technologies and tools 💙
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skills 
 
-<div align="center">  
+
+<div style="display: flex; flex-wrap: wrap; margin: 0 auto; width: 100%">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -87,7 +77,3 @@ I love to learn new technologies and tools 💙
 <br/>  
 
 <div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
